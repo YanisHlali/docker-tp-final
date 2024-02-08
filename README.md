@@ -1,9 +1,5 @@
 # docker-tp-final
 
-## Nom du Projet
-
-Une brève description de votre projet. Expliquez ce que fait votre application, pourquoi elle est utile, et quel problème elle résout.
-
 ## Table des Matières
 
 - [Structure du Projet](#structure-du-projet)
@@ -12,9 +8,6 @@ Une brève description de votre projet. Expliquez ce que fait votre application,
 - [Utilisation](#utilisation)
 - [Développement](#développement)
 - [Déploiement](#déploiement)
-- [Maintenance](#maintenance)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
 
 ## Structure du Projet
 
